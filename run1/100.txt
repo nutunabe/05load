@@ -1,0 +1,12 @@
+        "transactions":                          400,
+        "availability":                       100.00,
+        "elapsed_time":                        80.34,
+        "data_transferred":                     0.08,
+        "response_time":                       18.60,
+        "transaction_rate":                     4.98,
+        "throughput":                           0.00,
+        "concurrency":                         92.62,
+        "successful_transactions":               400,
+        "failed_transactions":                     0,
+        "longest_transaction":                 26.23,
+        "shortest_transaction":                 2.70
